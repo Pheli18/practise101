@@ -13,6 +13,11 @@ public class NewMain {
     /**
      * @param args the command line arguments
      */
+    
+//    question 1
+//    quesion 2
+//    question 3
+    
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello world");
